@@ -1,6 +1,6 @@
-##
-## Problem 3: homework 3, Spatial stats 
-## (Remote sensing temperature estimates)
+#==========================================================================
+# Problem 3: homework 3, Spatial stats 
+# (Remote sensing temperature estimates)
 #==========================================================================
 # (a) Based on only the training data, provide a binned semivariogram. Does it look like
 # there is evidence of a nugget effect?
